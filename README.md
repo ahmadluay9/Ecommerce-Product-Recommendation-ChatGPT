@@ -30,7 +30,9 @@ This repository consists of several files :
 
 - `backend/ dockerfile`: Dockerfile is used to build a Docker image for backend application. It includes instructions on how to set up the environment and dependencies needed for backend.
 
-- `backend/ chotbot.py`: This file contains the code used to create the Langchain framework and LLM (OpenAI), which is used to create the recommendation system.
+- `backend/ chatbot.py`: This file contains the code used to create the Langchain framework and LLM (OpenAI), which is used to create the recommendation system.
+
+- `backend/ requirements.txt`: This file lists the Python dependencies required for backend application. These dependencies can be installed using a package manager like pip.
 
 - `frontend/ app.py`: This file is the main script for the frontend of the application and is developed using the Streamlit framework. It contain sections for user input, and the integration of backend functionality through API calls. 
 
@@ -43,15 +45,6 @@ This repository consists of several files :
 ---
 
 ## Application
-### Getting Started
-
-To use this application and explore our product catalog, you need to have your OpenAI API key. Follow these steps to get started:
-
-1. Clone the repository to your local machine.
-2. Install the required dependencies using pip install -r requirements.txt.
-3. Set up your OpenAI API key in the .env file.
-`MY_OPENAI_KEY=your_openai_api_key`
-4. Run the applications
 
 ### How to use
 
