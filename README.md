@@ -1,4 +1,4 @@
-# Ecommerce Product Recommendation System using ChatGPT
+# Ecommerce Product Recommendation Application using OpenAI LLM
 
 - [Application Demo](https://ecommerce-recommendation-chatbot-frontend-7emkch5d3q-uc.a.run.app)
 
