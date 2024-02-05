@@ -58,4 +58,14 @@ In this application, there are two methods used as a product recommendation syst
 
 **Manual**
 
+For this method, users can input their product preferences in the fields provided.
+
+https://github.com/ahmadluay9/Ecommerce-Product-Recommendation-ChatGPT/assets/123846438/108a1296-fe21-458d-b713-92de22fcbeea
+
+**ChatBot**
+
+For this method, users can chat with an assistant who helps users find products according to their preferences.
+
+https://github.com/ahmadluay9/Ecommerce-Product-Recommendation-ChatGPT/assets/123846438/6aef4dce-9599-4d15-9e18-c8bca98ea479
+
 
