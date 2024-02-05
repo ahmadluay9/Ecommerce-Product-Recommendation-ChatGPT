@@ -1,4 +1,4 @@
-# Ecommerce Product Recommendation using ChatGPT
+# Ecommerce Product Recommendation System using ChatGPT
 
 - [Application Demo](https://ecommerce-recommendation-chatbot-frontend-7emkch5d3q-uc.a.run.app)
 
@@ -54,5 +54,8 @@ To use this application and explore our product catalog, you need to have your O
 
 ### How to use
 
+In this application, there are two methods used as a product recommendation system: manually and chatbot. Users can choose one of the methods.
+
+**Manual**
 
 
