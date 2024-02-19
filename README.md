@@ -2,7 +2,7 @@
 
 - [Application Demo](https://ecommerce-recommendation-chatbot-frontend-7emkch5d3q-uc.a.run.app)
 
-The "Ecommerce Product Recommendation using ChatGPT" project aims to develop an ecommerce product recommendation system that returns a list of recommended products based on users preferences. 
+The "Ecommerce Product Recommendation using OpenAI LLM" project aims to develop an ecommerce product recommendation system that returns a list of recommended products based on users preferences. 
 
 ---
 
